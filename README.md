@@ -1,2 +1,1 @@
-# OCRPDF_WITH_ORACLE_APEX
-Extract PDF Data by using OCR Python
+extract pdf data by python OCR and send it to to oracle Apex By API
